@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3Ym0ycXhuZjcxaTA1Y2thd3JldjQ5a2c5c2w0eXhzaHRsa2NoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)](https://ravindu568.io)
+[![MasterHead](https://giphy.com/embed/V4NSR1NG2p0KeJJyr5)](https://ravindu568.io)
 
 
 <h1 align="center">Hi 👋, I'm Ravindu Wanshanatha</h1>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu568&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu568" /> </p>
 
-- 🔭 I’m currently working on **hospial management system**
+- 🔭 I’m currently working on **hospital management system**
 
 - 🌱 I’m currently learning **Angular**
 
@@ -17,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif">
 <p align="left">
-<a href="https://linkedin.com/in/ravindu wanshanatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu wanshanatha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ravindu-wanshanatha-5653b328b
+
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu wanshanatha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravindu indeewara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravindu indeewara" height="30" width="40" /></a>
 </p>
 
