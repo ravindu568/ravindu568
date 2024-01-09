@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on hospital management system<br>🌱 I’m currently learning Angular<br>💬 Ask me about React and android<br>
+🔭 I’m currently working on tourguide system<br>🌱 I’m currently learning Angular<br>💬 Ask me about React and android<br>
 
 
 ## 🌐 Socials:
