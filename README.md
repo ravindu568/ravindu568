@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tourguide system<br>🌱 I’m currently learning Angular<br>💬 Ask me about React and android<br>
+🔭 I’m currently working on research project<br>🌱 I’m currently learning s<br>💬 Ask me about React-Native and spring boot<br>
 
 
 ## 🌐 Socials:
