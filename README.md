@@ -1,7 +1,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">A Passionate DevOps Enthusiast from Sri Lanka</h1>
-<p align="center">I'm currently working on research projects and expanding my knowledge in Java. I specialize in React-Native and Spring Boot development. With expertise in both front-end and back-end technologies, I focus on creating robust and scalable applications while continuously learning and exploring new technologies.</p>
+<h2 align="center">A Passionate DevOps Enthusiast from Sri Lanka</h2>
+<p align="center">I am a software engineer specializing in Angular and Spring Boot development, with a strong focus on creating robust and scalable applications. Currently expanding my knowledge in Java and working on research projects, I have expertise in both front-end and back-end technologies, along with hands-on experience in DevOps practices such as CI/CD pipelines, containerization, and cloud infrastructure. My work includes building and maintaining microservice architectures, integrating IoT devices, and streamlining workflows with tools like Docker, Kubernetes, and Terraform. I am passionate about continuous learning and leveraging emerging technologies to drive innovation and efficiency in software development.</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ravindu568&icon=0&color=0" alt="Visit Count" />
